@@ -1,0 +1,23 @@
+#card{
+    width: 50%;
+    background-color: aqua;
+    margin-left: 200px ;
+    margin-top: 100px;
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    border-radius: 15px;
+    box-shadow: 0 -4 8px (0, 0, 0, 0, 7);
+}
+   input{
+    margin-top: 10px;
+    border-radius: 15px;
+    text-align: center;
+    font-size: large;
+    border-radius: 15px;
+   }
+#bortao{
+    background-color: blue;
+    color: azure;
+    padding: 18px;
+}
